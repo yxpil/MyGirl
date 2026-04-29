@@ -92,7 +92,7 @@ python chat.py
 
 - 作者：**yxpillow**
 - GitHub：[yxpil/MyGirl](https://github.com/yxpil/MyGirl)
-
+- 魔塔社区：[链接](https://www.modelscope.cn/models/Yxpilow/Pillow-microl-rn/files)
 ## 项目特点
 
 - 完全自研中文分词，非BPE
